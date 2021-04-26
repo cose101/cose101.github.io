@@ -1,6 +1,6 @@
 title: Hamilton
 description: A minimal and beautiful Jekyll theme best for writing and note-taking.
-author: gamja
+author: author
 avatar: /logo.png
 email: gmail@gmail.com
 skin: daylight
@@ -39,6 +39,6 @@ social:
   links:
     - https://twitter.com/ngzhio
     - https://www.facebook.com/ngzhio
-    - https://github.com/ngzhio
+    - https://github.com/cose101
 google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
-lang: en
+lang: ko
